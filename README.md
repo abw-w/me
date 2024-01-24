@@ -1,6 +1,2 @@
-forg
-
-<!---
-Perlance/Perlance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+unfortunately, i do sometimes make things.
+this is a fault of my own upbringing. there is, nothing to be done.
